@@ -89,6 +89,10 @@ body {
     font-size: 14px;
 }
 
+.nav-button {
+    display: none;
+}
+
 .nav-link {
     color: #000;
 }
@@ -206,7 +210,7 @@ body {
     margin-top: 1em;
 }
 
-.contacts-botton {
+.contacts-button {
     margin-bottom: 80px;
 }
 
